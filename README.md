@@ -1,7 +1,7 @@
 # IBM Cloud Environment
 
 [![IBM Cloud powered][img-ibmcloud-powered]][url-cloud]
-[![Build Status](https://github.com/IBM/ibm-cloud-env/actions/workflows/nodejs.yml/badge.svg?branch=develop)](https://github.com/IBM/ibm-cloud-env/actions/workflows/nodejs.yml)
+[![Build Status](https://github.com/IBM/ibm-cloud-env/actions/workflows/nodejs.yml/badge.svg?branch=master)](https://github.com/IBM/ibm-cloud-env/actions/workflows/nodejs.yml)
 [![Version][img-version]][url-npm]
 [![DownloadsMonthly][img-npm-downloads-monthly]][url-npm]
 [![DownloadsTotal][img-npm-downloads-total]][url-npm]
