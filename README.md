@@ -1,9 +1,7 @@
 # IBM Cloud Environment
 
 [![IBM Cloud powered][img-ibmcloud-powered]][url-cloud]
-[![Travis][img-travis-master]][url-travis-master]
-[![Coveralls][img-coveralls-master]][url-coveralls-master]
-[![Codacy][img-codacy]][url-codacy]
+[![Build Status](https://github.com/IBM/ibm-cloud-env/actions/workflows/nodejs.yml/badge.svg?branch=develop)](https://github.com/IBM/ibm-cloud-env/actions/workflows/nodejs.yml)
 [![Version][img-version]][url-npm]
 [![DownloadsMonthly][img-npm-downloads-monthly]][url-npm]
 [![DownloadsTotal][img-npm-downloads-total]][url-npm]
@@ -11,21 +9,12 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 [img-ibmcloud-powered]: https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg
-[url-cloud]: http://bluemix.net
+[url-cloud]: https://cloud.ibm.com
 [url-npm]: https://www.npmjs.com/package/ibm-cloud-env
 [img-license]: https://img.shields.io/npm/l/ibm-cloud-env.svg
 [img-version]: https://img.shields.io/npm/v/ibm-cloud-env.svg
 [img-npm-downloads-monthly]: https://img.shields.io/npm/dm/ibm-cloud-env.svg
 [img-npm-downloads-total]: https://img.shields.io/npm/dt/ibm-cloud-env.svg
-
-[img-travis-master]: https://travis-ci.org/ibm-developer/ibm-cloud-env.svg?branch=master
-[url-travis-master]: https://travis-ci.org/ibm-developer/ibm-cloud-env/branches
-
-[img-coveralls-master]: https://coveralls.io/repos/github/ibm-developer/ibm-cloud-env/badge.svg
-[url-coveralls-master]: https://coveralls.io/github/ibm-developer/ibm-cloud-env
-
-[img-codacy]: https://api.codacy.com/project/badge/Grade/e3ecd6926e134c69bcb9d69ece5b4f3f?branch=master
-[url-codacy]: https://www.codacy.com/app/ibm-developer/ibm-cloud-env
 
 The `ibm-cloud-env` module allows to abstract environment variables from various Cloud compute providers, such as, but not limited to, CloudFoundry and Kubernetes, so the application could be environment-agnostic.
 
