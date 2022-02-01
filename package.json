@@ -1,6 +1,6 @@
 {
   "name": "ibm-cloud-env",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Abstraction layer for CF and Kube env variables",
   "main": "lib/lib.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "app-root-path": "^3.0.0",
     "jsonpath": "^1.1.1",
-    "log4js": "^6.3.0",
+    "log4js": "^6.4.1",
     "underscore": "^1.13.1"
   },
   "devDependencies": {
