@@ -1,6 +1,6 @@
 {
   "name": "ibm-cloud-env",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "Abstraction layer for CF and Kube env variables",
   "main": "lib/lib.js",
   "scripts": {
